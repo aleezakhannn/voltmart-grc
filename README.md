@@ -16,7 +16,7 @@ This project followed a four-stage GRC process:
 4. **Executive Handover** - summarized findings and top priority actions for leadership
 
 ## Folder Structure
-```
+```text
 voltmart-grc/
 ├── assets.csv              # IT asset inventory
 ├── risk_register.csv       # STRIDE-based risk assessment
