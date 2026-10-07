@@ -1,0 +1,17 @@
+﻿Asset ID,Name,Type,Owner,Business Value,Sensitivity
+AST-001,Checkout PC (Register 1),Workstation,Store Manager,High,Medium
+AST-002,Checkout PC (Register 2),Workstation,Store Manager,High,Medium
+AST-003,Back Office Laptop,Workstation,Store Manager,High,High
+AST-004,Barcode Scanner,Peripheral,Store Associate,Medium,Low
+AST-005,Receipt Printer,Peripheral,Store Associate,Low,Low
+AST-006,Backup External Hard Drive,Storage Device,IT Admin,Medium,High
+AST-007,Office Wi-Fi Router,Network Equipment,IT Admin,Medium,Medium
+AST-008,Security Camera System,Surveillance Equipment,Store Manager,Medium,Medium
+AST-009,Safe Lock System,Security System,Store Manager,High,Medium
+AST-010,POS Terminal (Register 1),Payment Device,Store Manager,High,High
+AST-011,POS Terminal (Register 2),Payment Device,Store Manager,High,High
+AST-012,Inventory Database Server,Server,IT Admin,High,High
+AST-013,Wi-Fi Access Point (Sales Floor),Network Equipment,IT Admin,Medium,Medium
+AST-014,Wi-Fi Access Point (Warehouse),Network Equipment,IT Admin,Medium,Medium
+AST-015,Admin Workstation,Workstation,IT Admin,High,Medium
+AST-016,Handheld Inventory Scanner,Mobile Device,Store Associate,Medium,Low
