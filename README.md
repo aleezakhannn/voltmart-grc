@@ -1,10 +1,6 @@
 # VoltMart GRC Project
 
-[
-
-![Markdown Lint](https://github.com/aleezakhannn/voltmart-grc/actions/workflows/markdown-lint.yml/badge.svg)
-
-](https://github.com/aleezakhannn/voltmart-grc/actions/workflows/markdown-lint.yml)
+[![Markdown Lint](https://github.com/aleezakhannn/voltmart-grc/actions/workflows/markdown-lint.yml/badge.svg)](https://github.com/aleezakhannn/voltmart-grc/actions/workflows/markdown-lint.yml)
 
 This repository contains the complete governance, risk, and compliance (GRC) project for VoltMart, including the IT asset inventory, a STRIDE-based risk register, an ISO 27001 control mapping, and an executive handover summary.
 
